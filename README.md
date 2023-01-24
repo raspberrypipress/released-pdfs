@@ -9,7 +9,7 @@ This repository contains PDF copies of out of print Raspberry Pi Press books.
 * [Get Started with Raspberry Pi](https://github.com/raspberrypipress/released-pdfs/raw/main/get-started-with-raspberry-pi.pdf)
 * [Help my Computer is Broken](https://github.com/raspberrypipress/released-pdfs/raw/main/help-my-computer-is-broken.pdf)
 * [Learn to Code with Scratch](https://github.com/raspberrypipress/released-pdfs/raw/main/learn-to-code-with-scratch.pdf)
-* [Rapsberry Pi Beginners Book](https://github.com/raspberrypipress/released-pdfs/raw/main/raspberry-pi-beginners-book.pdf)
+* [Raspberry Pi Beginners Book](https://github.com/raspberrypipress/released-pdfs/raw/main/raspberry-pi-beginners-book.pdf)
 * [Retro Gaming with Raspberry Pi](https://github.com/raspberrypipress/released-pdfs/raw/main/retro-gaming-with-raspberry-pi.pdf)
 * [Retro Gaming with Raspberry Pi (2nd Edition)](https://github.com/raspberrypipress/released-pdfs/raw/main/retro-gaming-with-raspberry-pi-2nd-edition.pdf)
 * [Simple Electronics with GPIO Zero](https://github.com/raspberrypipress/released-pdfs/raw/main/simple-electronics-with-gpio-zero.pdf)
