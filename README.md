@@ -2,6 +2,7 @@
 
 This repository contains PDF copies of out of print Raspberry Pi Press books. 
 
+* [Book of Making, Vol. 1](https://github.com/raspberrypipress/released-pdfs/raw/main/book-of-making-vol-1.pdf)
 * [Book of Making, Vol. 2](https://github.com/raspberrypipress/released-pdfs/raw/main/book-of-making-vol-2.pdf)
 * [Build a Raspberry Pi Media Player](https://github.com/raspberrypipress/released-pdfs/raw/main/build-a-raspberry-pi-media-player.pdf)
 * [The Camera Guide](https://github.com/raspberrypipress/released-pdfs/raw/main/camera-guide.pdf)
