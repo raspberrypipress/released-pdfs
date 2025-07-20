@@ -11,7 +11,7 @@ This repository contains PDF copies of out of print [Raspberry Pi Press](https:/
 * [Get Started with MicroPython on Raspberry Pi Pico (1st Edition)](https://github.com/raspberrypipress/released-pdfs/raw/main/get-started-with-micropython-raspberry-pi-pico.pdf) **2nd Edition is available [here](https://magazine.raspberrypi.com/books/get-started-micropython-pico-2ed)**
 * [Get Started with Raspberry Pi](https://github.com/raspberrypipress/released-pdfs/raw/main/get-started-with-raspberry-pi.pdf)
 * [Help my Computer is Broken](https://github.com/raspberrypipress/released-pdfs/raw/main/help-my-computer-is-broken.pdf)
-* [Make Games with Python](https://github.com/raspberrypipress/released-pdfs/raw/main/make-games-with-python.pdf)
+* [Make Games with Python (1st Edition)](https://github.com/raspberrypipress/released-pdfs/raw/main/make-games-with-python.pdf) **2nd Edition is available [here](https://magazine.raspberrypi.com/books/make-games-with-python-2nd-edition)**
 * [Learn to Code with Scratch](https://github.com/raspberrypipress/released-pdfs/raw/main/learn-to-code-with-scratch.pdf)
 * [Raspberry Pi Beginners Book](https://github.com/raspberrypipress/released-pdfs/raw/main/raspberry-pi-beginners-book.pdf)
 * Raspberry Pi Beginner's Guide (4th Edition) **5th Edition is available [here](https://magazine.raspberrypi.com/books/beginners-guide-5th-ed-buy-now)**
