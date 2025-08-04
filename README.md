@@ -30,7 +30,7 @@ This repository contains PDF copies of out of print [Raspberry Pi Press](https:/
 * [Retro Gaming with Raspberry Pi (2nd Edition)](https://github.com/raspberrypipress/released-pdfs/raw/main/retro-gaming-with-raspberry-pi-2nd-edition.pdf) **3rd Edition is available [here](https://magazine.raspberrypi.com/books/retro-gaming-raspberry-pi-3rd-edition)**
 * [Simple Electronics with GPIO Zero (1st Edition)](https://github.com/raspberrypipress/released-pdfs/raw/main/simple-electronics-with-gpio-zero.pdf) **2nd Edition is available [here](https://magazine.raspberrypi.com/books/simple-electronics-with-gpio-zero-2nd-edition)**
 * [Wearable Tech Projects](https://github.com/raspberrypipress/released-pdfs/raw/main/wearable-tech-projects.pdf)
-* [C and GUI Programming (1st edition)](https://github.com/raspberrypipress/released-pdfs/raw/main/C_and_GUI_programming_v1.pdf) *2nd Edition is available [here](https://magazine.raspberrypi.com/books/c-gui-programming-2)**
+* [C and GUI Programming (1st edition)](https://github.com/raspberrypipress/released-pdfs/raw/main/C_and_GUI_programming_v1.pdf) **2nd Edition is available [here](https://magazine.raspberrypi.com/books/c-gui-programming-2)**
 * [MagPi SE 1](https://github.com/raspberrypipress/released-pdfs/raw/main/MagPi_Issue_SE_1.pdf)
 
 ## Licence
