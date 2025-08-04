@@ -6,6 +6,7 @@ This repository contains PDF copies of out of print [Raspberry Pi Press](https:/
 * [Book of Making, Vol. 2](https://github.com/raspberrypipress/released-pdfs/raw/main/book-of-making-vol-2.pdf)
 * [Build a Raspberry Pi Media Player](https://github.com/raspberrypipress/released-pdfs/raw/main/build-a-raspberry-pi-media-player.pdf)
 * [The Camera Guide (1st Edition)](https://github.com/raspberrypipress/released-pdfs/raw/main/camera-guide.pdf) **2nd Edition is available [here](https://magazine.raspberrypi.com/books/camera-guide-2nd-edition)**
+* [Code the Classics Volume I (1st Edition)](https://github.com/raspberrypipress/released-pdfs/raw/main/Code_the_classics_v1_1ed.pdf) **2nd Edition is available [here](https://magazine.raspberrypi.com/books/code-the-classics-vol-I-2ed)**
 * [Conquer the Command Line (2nd Edition)](https://github.com/raspberrypipress/released-pdfs/raw/main/conquer-the-command-line-v2.pdf) **3rd Edition is available [here](https://magazine.raspberrypi.com/books/conquer-the-command-line-3rd-edition)**
 * [Experiment with the Sense HAT (1st Edition)](https://github.com/raspberrypipress/released-pdfs/raw/main/experiment-with-the-sense-hat.pdf) **2nd Edition is available [here](https://magazine.raspberrypi.com/books/experiment-with-the-sense-hat-2nd-edition)**
 * [Get Started with MicroPython on Raspberry Pi Pico (1st Edition)](https://github.com/raspberrypipress/released-pdfs/raw/main/get-started-with-micropython-raspberry-pi-pico.pdf) **2nd Edition is available [here](https://magazine.raspberrypi.com/books/get-started-micropython-pico-2ed)**
