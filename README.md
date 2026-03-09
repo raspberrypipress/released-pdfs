@@ -33,6 +33,8 @@ This repository contains PDF copies of out of print [Raspberry Pi Press](https:/
 * [Wearable Tech Projects](https://github.com/raspberrypipress/released-pdfs/raw/main/wearable-tech-projects.pdf)
 * [C and GUI Programming (1st edition)](https://github.com/raspberrypipress/released-pdfs/raw/main/C_and_GUI_programming_v1.pdf) **2nd Edition is available [here](https://magazine.raspberrypi.com/books/c-gui-programming-2)**
 * [MagPi SE 1](https://github.com/raspberrypipress/released-pdfs/raw/main/MagPi_Issue_SE_1.pdf)
+* [The Official Raspberry Pi Handbook 2024](https://github.com/raspberrypipress/released-pdfs/raw/main/official-handbook-2024.pdf)
+* [The Official Raspberry Pi Handbook 2025](https://github.com/raspberrypipress/released-pdfs/raw/main/official-handbook-2025.pdf)
 
 ## Licence
 
